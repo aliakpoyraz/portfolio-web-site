@@ -8,6 +8,3 @@ Responsive hale getirilecek, İngilizce dil seçeneği eklenecek, içerikler dü
 ![3](https://github.com/user-attachments/assets/1da1a5fe-109f-49b3-92b2-4bde12b0d544)
 ![4](https://github.com/user-attachments/assets/bd1a5d9b-cfc0-42d5-810f-d5cf7e896671)
 
-### Responsive hale getirilecek
-### TR/EN dil paketi eklenecek
-### İçerikler düzenlenecek
